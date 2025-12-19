@@ -1,0 +1,9 @@
+# Ignore caches, temporary files, and secrets
+**/cache/
+**/*.log
+**/Crash Reports/
+.config/mpv/watch_later/
+.config/yay/cache/
+.config/systemd/user/*.wants/
+*~
+*.swp
