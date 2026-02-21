@@ -1,0 +1,17 @@
+[Desktop Entry]
+FullScreen=false
+
+[General]
+LockSidebar=true
+ShowSidebar=false
+
+[Recent Files]
+File1[$e]=$HOME/Cambridge_Engineering_Part_IIB/4A4/Flight_tests_briefing_lecture_2025-11-28.pdf
+File2[$e]=$HOME/Tutoring/Celine PS.pdf
+File3[$e]=$HOME/Screenshots/2026-02-17_21-39-54.png
+Name1[$e]=Flight_tests_briefing_lecture_2025-11-28.pdf
+Name2[$e]=Celine PS.pdf
+Name3[$e]=2026-02-17_21-39-54.png
+
+[UiSettings]
+ColorScheme=BreezeDark

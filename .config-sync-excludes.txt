@@ -1,0 +1,38 @@
+# Secrets / tokens / cloud creds
+gh/
+gcloud/
+rclone/
+keyring/
+keepassxc/
+1password/
+bitwarden/
+kdewallet/
+seahorse/
+aws/
+azure/
+docker/
+kube/
+oauth/
+
+# Huge app data (usually not what you want in dotfiles)
+google-chrome/
+chromium/
+BraveSoftware/
+discord/
+Slack/
+spotify/
+zoom/
+teams/
+signal/
+telegramdesktop/
+Code/
+VSCodium/
+JetBrains/
+thunderbird/
+firefox/
+
+# Common cache-ish dirs inside ~/.config
+*.cache/
+cache/
+Cache/
+GPUCache/
